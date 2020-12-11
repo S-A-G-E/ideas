@@ -27,4 +27,4 @@ Have a question? Send a message to:
 
  * [Discord](https://discord.gg/9JwCfhbvny)
  * [Twitter](https://twitter.com/Open_Sage)
- * [Email](https://protonmail.com/open_sage)
+ * [Email](https://open_sage@protonmail.com)
