@@ -19,6 +19,7 @@ This repo is to be used for the community, the members, buidlers and helpers of 
  * Include a git-handle or a contact method.
  * Provide all necessary links & files for your ideas and suggestions.
  * Posted content must not already exist in this repo, unless significant changes have occured to the original presented material.
+ * Be patient waiting for a response from someone.
 
 
 #### Contact: 
